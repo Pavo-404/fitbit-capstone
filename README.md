@@ -1,4 +1,4 @@
-#FitBit Fitness Tracker Data
+# FitBit Fitness Tracker Data
 Bellabeat is a highly innovative manufacturer of health-focused products specifically designed for women. As a junior data analyst working with Bellabeat's marketing team, my main responsibility is to analyze smart device data for one of the company's health-focused products. Although Bellabeat is already a successful small company, the company has the potential to become a significant player in the global smart device market. To unlock new growth opportunities for the company, Urška Sršen, the co-founder, and Chief Creative Officer of Bellabeat, believes that analyzing smart device fitness data is key.
 
 To this end, I have been tasked with analyzing non-Bellabeat consumer data (specifically, FitBit fitness tracker usage data) to gain insight into how consumers are using their smart devices. By analyzing this data, I have identified new opportunities for growth that can help guide Bellabeat's marketing strategy. With the insights gained from this analysis, Bellabeat can capitalize on the opportunities in the smart device market, driving its continued growth and success.
